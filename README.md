@@ -12,6 +12,7 @@ https://github.com/kanchitank/Mushroom-Classification
 
 ## CS205 Practical Assessment
 
-Transformer model for pedestrian detection using Hugging Face and pytorch:
+Pedestrian Detection using pretrained models: 
 
-https://huggingface.co/docs/transformers/main/en/notebooks
+- HOG + L-SVM (OpenCV framework)
+- Yolov5
